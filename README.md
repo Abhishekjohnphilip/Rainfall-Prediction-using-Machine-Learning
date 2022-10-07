@@ -6,7 +6,8 @@ Use the required data only
 Removes noise or irrelevant data
 Numpy – used for mathematical calculations (uses numpy arrays).
 
-Reads the excel file data in a table format. // Excel file – historical data
+Reads the excel file data in a table format.
+ // Excel file – historical data
 Performs data cleaning
 Removes the unnecessary columns. Since, for rainfall prediction we use data like evaporation, humidity, sunshine, daily temperature (maximum and minimum). 
 Removing data – date, sea level pressure and so on.
